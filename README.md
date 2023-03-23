@@ -24,7 +24,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX] 1.a Empathy Map
+1.a Empathy Map
 -----
 
 Breve análisis entre lo que piensa, siente, dice y hace los tres diferentes perfiles planteados para nuestro ejemplo. 
@@ -57,7 +57,7 @@ Hemos escogido la opción de comprar entrada para acudir al Tablao Flamenco porq
 - Valoración final (numérica):  58.8445
 - Comentario sobre la valoración:  Teniendo en cuenta las experiencias que nuestras dos personas pueden tener obtenemos una media de Moderate, siendo esta algo mejorable en aspectos como la búsqueda y la ayuda.
 
-![Método UX]() 1.f Briefing
+1.f Briefing
 ----
 Durante esta practica hemos realizado una revisión de usabilidad acerca de la página web de un tablao flamenco mediante diversas herramientas.
 Acerca de estas, pensamos que son una buena utilidad para poder realizar un análisis a fondo de cualquier página web.
