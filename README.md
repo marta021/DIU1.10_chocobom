@@ -1,8 +1,8 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU1_10Chocobom.  Curso: 2022/23 
+Updated: 23/3/2023
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,43 +15,47 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Marta Rincón Otero     :octocat:     
+ * :bust_in_silhouette:  Manuel Francisco Frías Lorite     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX] 1.a Empathy Map
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Breve análisis entre lo que piensa, siente, dice y hace los tres diferentes perfiles planteados para nuestro ejemplo. 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Comparación entre tres sitios webs diferentes cuya temática principal es el Tablao Flamenco.
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/Persona.png) 1.c Persona
+-----
+
+Hemos seleccionado dos personajes: Emma Kim, persona extranjera recién llegada a Granada que no conoce nada de la cultura y quiere aprender de ella, y por otro lado tenemos a Francisco José, amante del flamenco y la cultura española que le gustan mucho las actividades relacionadas con el flamenco.
+
+![image](https://user-images.githubusercontent.com/78885190/227064349-bc0d6c0e-1fc2-483f-b8f6-a8c0b00a9546.png)
+
+![image](https://user-images.githubusercontent.com/78885190/227064366-7302e54e-3d20-4473-ae4e-a119d7894a23.png)
+
+
+![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Hemos escogido la opción de comprar entrada para acudir al Tablao Flamenco porque es necesario pasar por este proceso para ir a ver el espectáculo. Se trata de dos experiencias cuyo objetivo es el mismo pero que llegan desde inicios diferentes, en el caso de Emma, accede a la información a través de un folleto que se le es proporcionado mientras que Francisco José se entera usando las redes sociales.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+- Enlace al documento: [ P1/usability review - Hoja 1.pdf ](https://github.com/marta021/DIU1.10_chocobom/blob/a0b10b804eefbb28b408945b07f0b681750cf46f/P1/usability%20review%20-%20Hoja%201.pdf)
+- Valoración final (numérica):  58.8445
+- Comentario sobre la valoración:  Teniendo en cuenta las experiencias que nuestras dos personas pueden tener obtenemos una media de Moderate, siendo esta algo mejorable en aspectos como la búsqueda y la ayuda.
 
 
 ## Paso 2. UX Design  
