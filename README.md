@@ -50,13 +50,18 @@ Hemos seleccionado dos personajes: Emma Kim, persona extranjera recién llegada 
 
 Hemos escogido la opción de comprar entrada para acudir al Tablao Flamenco porque es necesario pasar por este proceso para ir a ver el espectáculo. Se trata de dos experiencias cuyo objetivo es el mismo pero que llegan desde inicios diferentes, en el caso de Emma, accede a la información a través de un folleto que se le es proporcionado mientras que Francisco José se entera usando las redes sociales.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 
 - Enlace al documento: [ P1/usability review - Hoja 1.pdf ](https://github.com/marta021/DIU1.10_chocobom/blob/a0b10b804eefbb28b408945b07f0b681750cf46f/P1/usability%20review%20-%20Hoja%201.pdf)
 - Valoración final (numérica):  58.8445
 - Comentario sobre la valoración:  Teniendo en cuenta las experiencias que nuestras dos personas pueden tener obtenemos una media de Moderate, siendo esta algo mejorable en aspectos como la búsqueda y la ayuda.
 
+![Método UX]() 1.f Briefing
+----
+Durante esta practica hemos realizado una revisión de usabilidad acerca de la página web de un tablao flamenco mediante diversas herramientas.
+Acerca de estas, pensamos que son una buena utilidad para poder realizar un análisis a fondo de cualquier página web.
+Finalmente hemos concluido que la página web está relativamente bien diseñada para los diversos tipos de personas que pueden llegar a acceder a ella.
 
 ## Paso 2. UX Design  
 
