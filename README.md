@@ -88,16 +88,18 @@ Finalmente hemos concluido que la página web está relativamente bien diseñada
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/scope_canvas_5_print_es.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/User_Task%20Matrix.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/sitemap_y_labelling.png)
 
 >>> Identificar términos para diálogo con usuario  
 
@@ -108,8 +110,8 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/sneakpeekit-4-browsers.png
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
