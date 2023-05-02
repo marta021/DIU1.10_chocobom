@@ -68,22 +68,9 @@ Finalmente hemos concluido que la página web está relativamente bien diseñada
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
-
-
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/Feedback%20Capture%20Grid%20(Community).png)
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/POV.png)
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
@@ -94,19 +81,12 @@ Finalmente hemos concluido que la página web está relativamente bien diseñada
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
-
+Hemos elegido hacer el User Task Matrix.
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/User_Task%20Matrix.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P2/sitemap_y_labelling.png)
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
