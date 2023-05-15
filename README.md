@@ -119,6 +119,15 @@ Hemos elegido hacer el User Task Matrix.
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
+Para las guidelines nos ayudaremos de la página https://getbootstrap.com/docs/5.3/components/
+
+Utilizaremos el logo del tablao (izquierda) y el componente Navbar (derecha) para el encabezado común a todas las páginas. 
+En el Navbar incluiremos los respectivos menús de nuestra página ( Inicio / Galería / Espectáculos / Experiencias / Sobre Nosotros / Contacto ) además de un barra de búsqueda. Dentro de cada menú (menos el botón de Inicio) encontramos un menú desplegable (Dropdowns). El componente Navbar también contempla esto último.
+
+En el aparrtado de Experiencias encontramos un submenú donde se habla de los menús de comida con los que se pueden acompañar el espectáculo. Para mostrar las fotos de estos menús de comida vamos a utilizar el componente de Carousel. De esta manera, las fotos se irán deslizando  mostrando todas las opciones de comida disponibles. Así mismo, en la misma página utilizaremos el componente de Cards para detallar un poco más cada uno de los menús con otra foto de referencia. El texto de el Card se encuentra a la derecha. Este estilo de página es similar para la página de los espectáculos aunque sin el Carousel.
+
+
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
