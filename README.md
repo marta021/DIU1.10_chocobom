@@ -143,6 +143,8 @@ En el Navbar incluiremos los respectivos menús de nuestra página ( Inicio / Ga
 
 En el apartado de Inicio podemos visualizar dos Carousel. El primero, en la parte superior debajo del navbar, está compuesto por tres fotos que se deslizan y cambian automáticamente tras dos segundos y medio. En esta misma página al final encontramos otro. Este sin embargo no sólo se desliza sólo, si no que también podemos navegar por las diferentes fotos que lo conforman utilizando las barras que se muestran en el propio Carousel.
 
+También, la página dispone de botones como "Comprar Entradas" que se encuentra junto al Navbar. Creemos que es una forma fácil de acceder a otras pantallas.
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
