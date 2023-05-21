@@ -153,6 +153,8 @@ Logo principal
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+
 https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/case_study.mp4
 
 ## Paso 4. Evaluación 
