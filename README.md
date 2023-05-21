@@ -11,8 +11,9 @@ Descripción:
 
 >>> Describa la idea de su producto en la práctica 2 
 
+
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/3.png)
 
 Miembros
  * :bust_in_silhouette:   Marta Rincón Otero     :octocat:     
@@ -114,6 +115,7 @@ Logos alternativos minimalistas
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/2.png)
 
 Logo principal 
+
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/3.png)
 
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/La%20Alborea%20MoodBoard.png)
