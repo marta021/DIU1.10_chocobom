@@ -13,6 +13,7 @@ Descripción:
 
 
 Logotipo: 
+
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/3.png)
 
 Miembros
@@ -22,6 +23,7 @@ Miembros
 ----- 
 
 # Proceso de Diseño 
+Para acceder a la dirección de cada archivo basta con hacer click en la foto correspondiente.
 
 ## Paso 1. UX Desk Research & Analisis 
 
