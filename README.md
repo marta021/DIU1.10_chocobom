@@ -136,14 +136,8 @@ Logo principal
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-Para las guidelines nos ayudaremos de la página https://getbootstrap.com/docs/5.3/components/
+[Enlace para ver el archivo con los guidelines utilizados](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/guidelines.pdf)
 
-Utilizaremos el logo del tablao (izquierda) y el componente Navbar (derecha) para el encabezado común a todas las páginas. 
-En el Navbar incluiremos los respectivos menús de nuestra página ( Inicio / Galería / Espectáculos / Experiencias / Sobre Nosotros / Contacto ) además de un barra de búsqueda. Dentro de cada menú con submenús encontramos un menú desplegable (Dropdowns). Al final del Navbar encontramos otro Dropdown referido a los idiomas en los que podemos traducir la página.
-
-En el apartado de Inicio podemos visualizar dos Carousel. El primero, en la parte superior debajo del navbar, está compuesto por tres fotos que se deslizan y cambian automáticamente tras dos segundos y medio. En esta misma página al final encontramos otro. Este sin embargo no sólo se desliza sólo, si no que también podemos navegar por las diferentes fotos que lo conforman utilizando las barras que se muestran en el propio Carousel.
-
-También, la página dispone de botones como "Comprar Entradas" que se encuentra junto al Navbar. Creemos que es una forma fácil de acceder a otras pantallas.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -158,7 +152,7 @@ También, la página dispone de botones como "Comprar Entradas" que se encuentra
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/case_study.mp4
 
 ## Paso 4. Evaluación 
 
