@@ -108,6 +108,8 @@ Hemos elegido hacer el User Task Matrix.
 Para la creación del logo hemos utilizado la herramienta online de Canva empleando la resolución de 500x500. Esta imagen debido al tamaño no sería adecuada para cabecera de Twitter.
 
 Logos alternativos minimalistas
+
+
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/1.png)
 ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/2.png)
 
