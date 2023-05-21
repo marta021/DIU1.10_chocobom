@@ -9,7 +9,8 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestro trabajo se centra en la creación de la web del tablao flamenco, brindando una experiencia online única y cautivadora. Nos encargamos de diseñar y desarrollar una interfaz atractiva y funcional que refleje la esencia y la pasión del flamenco. Desde la estructura y navegación de la página, hasta la selección de imágenes, colores y tipografía, nos esforzamos por transmitir la magia y el ambiente auténtico del tablao. 
+Nuestro objetivo es crear una plataforma que invite a los usuarios a sumergirse en el mundo del flamenco y los anime a disfrutar de una experiencia inolvidable en nuestro tablao.
 
 
 Logotipo: 
