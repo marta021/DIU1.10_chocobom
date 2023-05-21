@@ -5,6 +5,7 @@ Grupo: DIU1_10Chocobom.  Curso: 2022/23
 Updated: 23/3/2023
 
 Proyecto: 
+
 Nuestra propuesta opta por mantener el nombre del tablao original: La Alborea. 
 Para acceder a la dirección de cada archivo basta con hacer click en la foto correspondiente.
 
