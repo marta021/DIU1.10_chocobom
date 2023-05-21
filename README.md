@@ -6,6 +6,7 @@ Updated: 23/3/2023
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
+Para acceder a la dirección de cada archivo basta con hacer click en la foto correspondiente.
 
 Descripción: 
 
@@ -24,7 +25,6 @@ Miembros
 ----- 
 
 # Proceso de Diseño 
-Para acceder a la dirección de cada archivo basta con hacer click en la foto correspondiente.
 
 ## Paso 1. UX Desk Research & Analisis 
 
@@ -147,7 +147,7 @@ En el apartado de Inicio podemos visualizar dos Carousel. El primero, en la part
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/mockup.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
