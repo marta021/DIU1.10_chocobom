@@ -105,13 +105,23 @@ Hemos elegido hacer el User Task Matrix.
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para la creación del logo hemos utilizado la herramienta online de Canva empleando la resolución de 500x500. Esta imagen debido al tamaño no sería adecuada para cabecera de Twitter.
+
+Logos alternativos minimalistas
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/1.png)
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/2.png)
+
+Logo principal 
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/3.png)
+
+![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/La%20Alborea%20MoodBoard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
 >>> Plantear Landing Page 
+ ![image](https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/Landing%20page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -122,16 +132,15 @@ Hemos elegido hacer el User Task Matrix.
 Para las guidelines nos ayudaremos de la página https://getbootstrap.com/docs/5.3/components/
 
 Utilizaremos el logo del tablao (izquierda) y el componente Navbar (derecha) para el encabezado común a todas las páginas. 
-En el Navbar incluiremos los respectivos menús de nuestra página ( Inicio / Galería / Espectáculos / Experiencias / Sobre Nosotros / Contacto ) además de un barra de búsqueda. Dentro de cada menú (menos el botón de Inicio) encontramos un menú desplegable (Dropdowns). Al final del Navbar encontramos otro Dropdown referido a los idiomas en los que podemos traducir la página.
+En el Navbar incluiremos los respectivos menús de nuestra página ( Inicio / Galería / Espectáculos / Experiencias / Sobre Nosotros / Contacto ) además de un barra de búsqueda. Dentro de cada menú con submenús encontramos un menú desplegable (Dropdowns). Al final del Navbar encontramos otro Dropdown referido a los idiomas en los que podemos traducir la página.
 
-En el aparrtado de Experiencias encontramos un submenú donde se habla de los menús de comida con los que se pueden acompañar el espectáculo. Para mostrar las fotos de estos menús de comida vamos a utilizar el componente de Carousel. De esta manera, las fotos se irán deslizando  mostrando todas las opciones de comida disponibles. Así mismo, en la misma página utilizaremos el componente de Cards para detallar un poco más cada uno de los menús con otra foto de referencia. El texto de el Card se encuentra a la derecha. Este estilo de página es similar para la página de los espectáculos aunque sin el Carousel.
-
-
+En el apartado de Inicio podemos visualizar dos Carousel. El primero, en la parte superior debajo del navbar, está compuesto por tres fotos que se deslizan y cambian automáticamente tras dos segundos y medio. En esta misma página al final encontramos otro. Este sin embargo no sólo se desliza sólo, si no que también podemos navegar por las diferentes fotos que lo conforman utilizando las barras que se muestran en el propio Carousel.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
