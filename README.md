@@ -162,23 +162,16 @@ https://github.com/marta021/DIU1.10_chocobom/blob/master/P3/case_study.mp4
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+La página web que nos ha tocado evaluar ha sido el taller de Artesanía perteneciente al grupo Avispón Alegre
+https://github.com/jesusma3009/DIU3_AvisponAlegre/tree/master/P3
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+[Enlace al pdf con la descripción de las personas ficticias](https://github.com/marta021/DIU1.10_chocobom/blob/master/P4/roleplay%20-%20Hoja%201.pdf)
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -190,36 +183,29 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
+[Enlace para ver el archivo de las personas ficticias](https://github.com/marta021/DIU1.10_chocobom/blob/master/P4/Cuestionario_SUS_DIU_-_Sheet1.pdf)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
+[Enlace al pdf con el usability report](https://github.com/marta021/DIU1.10_chocobom/blob/master/P4/DIU_report-template-usability-testOK_3.docx.pdf)
 
 
 >>> Valoración personal 
+Está incluida en el pdf.
+
+>>> ## Paso 5. Evaluación de mediante Eye Tracking 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+>>> ![Método UX](img/Accesibility.png)  5.a  Eyetracking method
 
+Hemos usado la herramienta de GazeRecorder para analizar los puntos fuertes de la página gracias a su mapa de calor.
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
+[Enlace al pdf con el EyeTracking detallado](https://github.com/marta021/DIU1.10_chocobom/blob/master/P5/P5_Eye_Tracking.pdf)
 
 ## Conclusión final / Valoración de las prácticas
-
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
