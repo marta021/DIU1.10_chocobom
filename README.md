@@ -185,6 +185,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 [Enlace para ver el archivo de las personas ficticias](https://github.com/marta021/DIU1.10_chocobom/blob/master/P4/Cuestionario_SUS_DIU_-_Sheet1.pdf)
 
+https://github.com/VictorPB/DIU/blob/master/P4/imagenCuestionarioSUS.png?raw=true
+Comparando el cuestionario SUS realizado por nuestros compañeros con el que hemos realizado nosotros, podemos ver que en general, los resultados no son tan dispares, ya que si tenemos en cuenta que ellos han utilizado 6 tipos de usuarios diferentes mientras que nosotros únicamente hemos utilizado 2, podemos observar que en líneas generales, se asemejan los resultados.
+
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
@@ -196,7 +199,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Valoración personal 
 Está incluida en el pdf.
 
->>> ## Paso 5. Evaluación de mediante Eye Tracking 
+## Paso 5. Evaluación de mediante Eye Tracking 
 
 
 >>> ![Método UX](img/Accesibility.png)  5.a  Eyetracking method
@@ -208,9 +211,12 @@ Hemos usado la herramienta de GazeRecorder para analizar los puntos fuertes de l
 ## Conclusión final / Valoración de las prácticas
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Durante el desarrollo de estas prácticas hemos hecho uso de la metodología UX y hemos aprendido lo realmente importante que es la experiencia de los usuario a la hora de desarrollar una página web.
+Creemos que estas prácticas nos han ayudado a analizar una página web desde unos puntos de vista diferentes a los habituales, realizando un análisis más exhaustivo, y darnos cuenta de la gran cantidad de errores que poseen las páginas web.
 
+Gracias a esto, hemos podido realizar un diseño de una página web más orientado a satisfacer las necesidades del usuario.
 
-
+En conclusión, estas prácticas nos han parecido bastante interesantes y nos han hecho aprender lo importante que es que una página web esté bien estructurada y orientada a los requerimientos de un usuario.
 
 
 
