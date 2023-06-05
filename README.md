@@ -186,6 +186,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 [Enlace para ver el archivo de las personas ficticias](https://github.com/marta021/DIU1.10_chocobom/blob/master/P4/Cuestionario_SUS_DIU_-_Sheet1.pdf)
 
 https://github.com/VictorPB/DIU/blob/master/P4/imagenCuestionarioSUS.png?raw=true
+
+
 Comparando el cuestionario SUS realizado por nuestros compañeros con el que hemos realizado nosotros, podemos ver que en general, los resultados no son tan dispares, ya que si tenemos en cuenta que ellos han utilizado 6 tipos de usuarios diferentes mientras que nosotros únicamente hemos utilizado 2, podemos observar que en líneas generales, se asemejan los resultados.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
